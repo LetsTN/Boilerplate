@@ -4,8 +4,6 @@ import styles from '../../styles/Home.module.css'
 
 type Props = { title: string }
 
-const asdfkjnaskjdgfh = 'sadg'
-
 export default function Home({ title = 'AAAAAAAAAAAAAAAAAAA' }: Props) {
   return (
     <div className={styles.container}>
