@@ -1,6 +1,6 @@
 const Main = () => (
   <main>
-    <h1>Teste Componente</h1>
+    <h1>Boilerplate</h1>
   </main>
 )
 
