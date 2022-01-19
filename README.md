@@ -5,7 +5,7 @@ Esse é um boilerplate [Next.js](https://nextjs.org/) Para ser usado no curso do
 
 ## O que tem por aqui?
 
-Esse projeto usa várias técnologias, como:
+Esse projeto usa várias tecnologias, como:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)
